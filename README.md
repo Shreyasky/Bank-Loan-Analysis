@@ -1,7 +1,19 @@
-# Bank Loan Analysis Project
-## Objective: Analyze bank loan application data to monitor key metrics and assess lending performance.
+# Bank Loan Analysis Project:
 
-## Data Cleaning: Processed raw loan application data by addressing missing values, correcting inconsistencies, and standardizing formats using Excel.
+# About the Dataset:
+The dataset includes detailed information on bank loan applications, covering various attributes such as applicant demographics, loan amount, approval status, and repayment history. This data is crucial for analyzing lending performance and identifying trends in loan approval and defaults.
+
+# Business Problem:
+Analyze bank loan application data to monitor key metrics and assess lending performance, providing insights for optimizing the loan approval process and minimizing default risks.
+
+# Libraries Used:
+
+Excel
+## Objective: 
+Analyze bank loan application data to monitor key metrics and assess lending performance.
+
+## Data Cleaning: 
+Processed raw loan application data by addressing missing values, correcting inconsistencies, and standardizing formats using Excel.
 ## Data Analysis:
 
 ### Loan Approval Rates: Evaluated approval rates across various loan types and demographics.
